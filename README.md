@@ -1,7 +1,7 @@
 # mobile_price_classification_gcp
 
 This is a classification use case which will classify price range of Mobile based on various features.
-There are 3 clacces. i) Below 10k  ii) Between 10k-20k  iii)Above 30k
+There are 3 classes.   i) Below 10k    ii) Between 10k-20k    iii)Above 30k
 
 ### Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
