@@ -8,7 +8,7 @@ You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for A
 
 ### Project Structure :
 
-#### Model_Final
+#### final_model
 
 This Folder Is Deployable File On Google GCP Cloud.
 
